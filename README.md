@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m a Data Analyst 📈
+
+- 🎥 Subscribe to my **Youtube Channel [CodeLytix](www.youtube.com/@CodeLytix)**
+
+- ⚡ Fun fact: I think I am funny 😂🤣😎
+
+- 🤔 Stay tuned for new interview practice question and its detailed solution.
 <!--
 **codelytix20/codelytix20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
